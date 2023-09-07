@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=\
+  org.sunso.keypoint.trace.log.mdc.autoconfigure.TtlMDCAdapterInitializer
